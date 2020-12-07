@@ -2,7 +2,7 @@ package com.lli.studydemo
 
 import android.app.Application
 import com.orhanobut.logger.AndroidLogAdapter
-import com.orhanobut.logger.LogAdapter
+import com.orhanobut.logger.BuildConfig
 import com.orhanobut.logger.Logger
 
 /**
